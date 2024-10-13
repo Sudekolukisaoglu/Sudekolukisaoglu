@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 sayı123
+<img src="ornek.png" alt="drawing" width="200"/>
